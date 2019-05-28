@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Ejercicio1</string>
+    <string name="texto_nombre">"El Alumno es: "</string>
+    <string name="texto_apellido">" y su apellido es: "</string>
+    <string name="genero_hombre">Hombre</string>
+    <string name="genero_mujer">Mujer</string>
+    <string name="letrero_princ">--Bienvenid@s--</string>
+    <string name="nombre">Nombre Completo:</string>
+    <string name="letrero_genero">Genero:</string>
+    <string name="letrero_nac">Fecha Nacimiento:</string>
+    <string name="boton_env">Enviar</string>
+    <string name="boton_limp">Limpiar</string>
+    <string name="boton_vista">Ver lista</string>
+    <string name="horocopo_Escorpion">Escorpion</string>
+    <string name="horocopo_Sagitario">Sagitario</string>
+    <string name="horocopo_Libra">Libra</string>
+    <string name="horocopo_Virgo">Virgo</string>
+    <string name="horocopo_Leo">Leo</string>
+    <string name="horocopo_Cancer">Cancer</string>
+    <string name="horocopo_Geminis">Geminis</string>
+    <string name="horocopo_Tauro">Tauro</string>
+    <string name="horocopo_Aries">Aries</string>
+    <string name="horocopo_Piscis">Piscis</string>
+    <string name="horocopo_Acuario">Acuario</string>
+    <string name="horocopo_Capricornio">Capricornio</string>
+    <string name="letrero_alumno">Alumno:</string>
+    <string name="letrero_edad">Edad:</string>
+    <string name="letrero_signo">Signo Zodiacal:</string>
+    <string name="letrero_rfc">RFC:</string>
+    <string-array name="genero_spinner">
+        <item>Hombre</item>
+        <item>Mujer</item>
+    </string-array>
+    </resources>

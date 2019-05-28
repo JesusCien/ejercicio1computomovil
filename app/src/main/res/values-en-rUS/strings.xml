@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="genero_hombre">Men</string>
+    <string name="genero_mujer">Woman</string>
+    <string name="app_name">Exercie1</string>
+    <string name="texto_nombre">The Student is:</string>
+    <string name="texto_apellido">" and his surname is:"</string>
+    <string name="letrero_princ">--Welcome--</string>
+    <string name="nombre">Full Name:</string>
+    <string name="letrero_genero">Genere:</string>
+    <string name="letrero_nac">Birthday:</string>
+    <string name="boton_env">Send</string>
+    <string name="boton_limp">Clean</string>
+    <string name="boton_vista">List View</string>
+    <string name="letrero_rfc">RFC:</string>
+    <string name="letrero_edad">AGE:</string>
+    <string name="letrero_alumno">Student:</string>
+    <string name="horocopo_Escorpion">Scorpio</string>
+    <string name="horocopo_Sagitario">Sagittarius</string>
+    <string name="horocopo_Libra">Libra</string>
+    <string name="horocopo_Virgo">Virgo</string>
+    <string name="horocopo_Leo">Leo</string>
+    <string name="horocopo_Cancer">Cancer</string>
+    <string name="horocopo_Geminis">Gemini</string>
+    <string name="horocopo_Tauro">"Taurus "</string>
+    <string name="horocopo_Aries">Aries</string>
+    <string name="horocopo_Piscis">Pisces</string>
+    <string name="horocopo_Acuario">Aquarius</string>
+    <string name="horocopo_Capricornio">Capricorn</string>
+    <string name="letrero_signo">Zodiac Sign:</string>
+    <string-array name="genero_spinner">
+        <item>Men</item>
+        <item>Woman</item>
+    </string-array>
+</resources>
